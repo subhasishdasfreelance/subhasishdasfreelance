@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhasish Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **freelance next js projects**
+- 🔭 I’m currently working on **exciting next js projects**
 
 - 🌱 I’m currently learning **React native**
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **Next js, React, tailwind css**
 
 - 📫 How to reach me **subhasishdasfreelance@gmail.com**
+
+- 📫 previous github (no longer have access) **https://github.com/subhasish-smiles**
 
 - 📄 Know about my experiences [https://subhasish-portfolio.vercel.app](https://subhasish-portfolio.vercel.app)
 
